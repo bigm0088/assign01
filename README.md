@@ -7,5 +7,3 @@ Pull the latest miner image
 Run the miner
 [ -f "volara.sh" ] && rm volara.sh; curl -s -o volara.sh https://raw.githubusercontent.com/volaradlp/minercli/refs/
 
-
-
